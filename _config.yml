@@ -1,4 +1,7 @@
 theme: minima
 
+show_excerpts: true
+
 github:
     is_project_page: false
+    
