@@ -1,4 +1,4 @@
-theme: jekyll-theme-modernist
+remote_theme: mmistakes/so-simple-theme
 
 github:
     is_project_page: false
